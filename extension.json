@@ -1,0 +1,18 @@
+{
+    "featured": [
+            "dfxboltcards"
+    ],
+    "extensions": [
+        {
+            "id": "dfxboltcards",
+            "repo": "https://github.com/DFXswiss/dfxboltcards",
+            "name": "DFX Boltcards",
+            "version": "0.0.1",
+            "short_description": "Manage your DFX Bolt Cards with the Taro Wallet",
+            "icon": "https://github.com/DFXswiss/dfxboltcards/raw/main/static/image/boltcard.png",
+            "archive": "https://github.com/DFXswiss/dfxboltcards/archive/refs/tags/v0.0.1.zip",
+            "hash": "3695d836ebaaabf030289004ce0af371e9c5ace0a2a3a5bfd53dddc61e77303f"
+        }
+    ]
+}
+
